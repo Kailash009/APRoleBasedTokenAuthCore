@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zcpsuu5F2uSMUw247E/KaJQC70FE7abQJ2sbjZWdeVE=",
+  "Source": "APIRoleBasedTokenAuthCore",
+  "BasePath": "_content/APIRoleBasedTokenAuthCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

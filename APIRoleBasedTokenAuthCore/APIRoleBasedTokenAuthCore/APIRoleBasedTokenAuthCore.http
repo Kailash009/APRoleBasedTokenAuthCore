@@ -1,0 +1,6 @@
+@APIRoleBasedTokenAuthCore_HostAddress = http://localhost:5285
+
+GET {{APIRoleBasedTokenAuthCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
